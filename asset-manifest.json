@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactecommercewebsite/static/css/main.e6c13ad2.css",
+    "main.js": "/reactecommercewebsite/static/js/main.f58ac92b.js",
+    "static/js/787.a2fdd5cc.chunk.js": "/reactecommercewebsite/static/js/787.a2fdd5cc.chunk.js",
+    "index.html": "/reactecommercewebsite/index.html",
+    "main.e6c13ad2.css.map": "/reactecommercewebsite/static/css/main.e6c13ad2.css.map",
+    "main.f58ac92b.js.map": "/reactecommercewebsite/static/js/main.f58ac92b.js.map",
+    "787.a2fdd5cc.chunk.js.map": "/reactecommercewebsite/static/js/787.a2fdd5cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f58ac92b.js"
+  ]
+}
